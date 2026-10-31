@@ -25,7 +25,11 @@ export default function Hero() {
                 <div><span className="ln">07</span>&nbsp;&nbsp;],</div>
                 <div><span className="ln">08</span>&nbsp;&nbsp;learning: <span className="orange">true</span></div>
                 <div><span className="ln">09</span>{'}'};</div>
-                <div className="code-cursor"><span className="ln">10</span><span className="green">// Always building something.</span><b>_</b></div>
+                <div className="code-cursor">
+  <span className="ln">10</span>
+  <span className="green">{'// Always building something.'}</span>
+  <b>_</b>
+</div>
               </div>
               <div className="code-footer"><span><span className="status-dot"/> Ready to build</span><span>UTF-8&nbsp; · &nbsp;JavaScript</span></div>
             </div>

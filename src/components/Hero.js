@@ -9,7 +9,7 @@ export default function Hero() {
             <h1>MERN Stack<br/><span className="gradient-text">Developer.</span></h1>
             <p className="hero-intro">I build responsive, user-focused web applications — from thoughtful interfaces to reliable backend services.</p>
             <div className="hero-actions"><a className="button button-primary" href="#projects">Explore my work <ArrowUpRight size={17}/></a><a className="button button-ghost" href="#contact">Get in touch <Mail size={16}/></a></div>
-            <div className="hero-meta"><span><MapPin size={14}/> India</span><span className="meta-divider"/><span>Fresher · Open to IT roles</span></div>
+            <div className="hero-meta"><span><MapPin size={14}/> India</span><span className="meta-divider"/><span> Open to IT roles</span></div>
           </div>
           <div className="hero-visual">
             <div className="orbit orbit-a"/><div className="orbit orbit-b"/>
